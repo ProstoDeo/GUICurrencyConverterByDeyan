@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\GUICurrencyConverterByDeyan\bin\Debug\net6.0-windows\GUICurrencyConverterByDeyan.exe
+C:\Users\user\source\repos\GUICurrencyConverterByDeyan\bin\Debug\net6.0-windows\GUICurrencyConverterByDeyan.deps.json
+C:\Users\user\source\repos\GUICurrencyConverterByDeyan\bin\Debug\net6.0-windows\GUICurrencyConverterByDeyan.runtimeconfig.json
+C:\Users\user\source\repos\GUICurrencyConverterByDeyan\bin\Debug\net6.0-windows\GUICurrencyConverterByDeyan.dll
+C:\Users\user\source\repos\GUICurrencyConverterByDeyan\bin\Debug\net6.0-windows\GUICurrencyConverterByDeyan.pdb
+C:\Users\user\source\repos\GUICurrencyConverterByDeyan\obj\Debug\net6.0-windows\GUICurrencyConverterByDeyan.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\GUICurrencyConverterByDeyan\obj\Debug\net6.0-windows\GUICurrencyConverterByDeyan.csproj.GenerateResource.cache
+C:\Users\user\source\repos\GUICurrencyConverterByDeyan\obj\Debug\net6.0-windows\GUICurrencyConverterByDeyan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\GUICurrencyConverterByDeyan\obj\Debug\net6.0-windows\GUICurrencyConverterByDeyan.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\GUICurrencyConverterByDeyan\obj\Debug\net6.0-windows\GUICurrencyConverterByDeyan.AssemblyInfo.cs
+C:\Users\user\source\repos\GUICurrencyConverterByDeyan\obj\Debug\net6.0-windows\GUICurrencyConverterByDeyan.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GUICurrencyConverterByDeyan\obj\Debug\net6.0-windows\GUICurrencyConverterByDeyan.dll
+C:\Users\user\source\repos\GUICurrencyConverterByDeyan\obj\Debug\net6.0-windows\refint\GUICurrencyConverterByDeyan.dll
+C:\Users\user\source\repos\GUICurrencyConverterByDeyan\obj\Debug\net6.0-windows\GUICurrencyConverterByDeyan.pdb
+C:\Users\user\source\repos\GUICurrencyConverterByDeyan\obj\Debug\net6.0-windows\GUICurrencyConverterByDeyan.genruntimeconfig.cache
+C:\Users\user\source\repos\GUICurrencyConverterByDeyan\obj\Debug\net6.0-windows\ref\GUICurrencyConverterByDeyan.dll
+C:\Users\user\source\repos\GUICurrencyConverterByDeyan\obj\Debug\net6.0-windows\GUICurrencyConverterByDeyan.ConversionForm.resources
