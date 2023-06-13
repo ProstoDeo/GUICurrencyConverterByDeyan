@@ -26,7 +26,8 @@ GUI Currency Converter is a simple Windows Forms application that allows users t
 ![image](https://github.com/ProstoDeo/GUICurrencyConverterByDeyan/assets/96566576/77960fea-f8c4-4768-94b8-90f283e9494c)
 ![image](https://github.com/ProstoDeo/GUICurrencyConverterByDeyan/assets/96566576/67b2f32e-34a4-4739-9faa-37eed0223d0e)
 
-
+## Download and Try the Application
+Download: [Here](https://github.com/ProstoDeo/GUICurrencyConverterByDeyan/releases)
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
