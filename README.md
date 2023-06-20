@@ -5,7 +5,7 @@ GUI Currency Converter is a simple Windows Forms application that allows users t
 ## Features
 
 - Conversion between Bulgarian Lev (BGN) and other currencies
-- Support for multiple target currencies (e.g., EUR, USD)
+- Support for multiple target currencies (BGN, EUR, USD)
 - User-friendly graphical interface
 - Keyboard shortcut for quick conversion (Enter key)
 
